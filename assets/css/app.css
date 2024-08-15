@@ -1,0 +1,10 @@
+#top-title h1 {
+  font-family: "Grey qo", montserrat;
+  font-size: 8rem;
+}
+
+@media (max-width: 576px) {
+  #top-title h1 {
+    font-size: 4rem;
+  }
+}
