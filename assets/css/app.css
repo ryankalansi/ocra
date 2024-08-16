@@ -1,6 +1,14 @@
+body {
+  height: 1000vh;
+}
+
 #top-title h1 {
   font-family: "Grey qo", montserrat;
   font-size: 8rem;
+}
+
+#catalogue {
+  margin-top: 5rem;
 }
 
 @media (max-width: 576px) {
