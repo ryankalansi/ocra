@@ -1,0 +1,35 @@
+.navbar-brand {
+  font-family: "Grey qo", montserrat;
+  font-size: 4rem;
+}
+
+.black-shirt:hover {
+  cursor: pointer;
+  content: url("../../../images/products/rib/RIB-BLACK-B.JPG");
+}
+
+.white-shirt:hover {
+  cursor: pointer;
+  content: url("../../../images/products/rib/RIB-WHITE-B.JPG");
+}
+
+.grey-shirt:hover {
+  cursor: pointer;
+  content: url("../../../images/products/rib/RIB-GREY-B.JPG");
+}
+
+.black-cap:hover {
+  cursor: pointer;
+  content: url("../../../images/products/rib/RIB-Black-Cap-B.jpg");
+}
+
+.red-cap:hover {
+  cursor: pointer;
+  content: url("../../../images/products/rib/RIB-Red-Cap-S.jpg");
+}
+
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 3rem;
+  }
+}
